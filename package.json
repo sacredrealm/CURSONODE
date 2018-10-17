@@ -1,0 +1,19 @@
+{
+  "name": "03_nodejs",
+  "version": "1.0.0",
+  "description": "Prueba asdf",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "prueba"
+  ],
+  "author": "Ñañel",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "yargs": "^12.0.2"
+  }
+}
