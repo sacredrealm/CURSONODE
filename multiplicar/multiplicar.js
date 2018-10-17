@@ -5,7 +5,7 @@ let crearArchivo = (from, to) =>{
     return new Promise((resolve, reject)=>{ 
 
         if(!Number(from)){
-            reject(`${from} no es un mumerito`);
+            reject(`${from} no es un mumeritoS`);
             return;
         }
 
